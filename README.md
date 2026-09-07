@@ -35,4 +35,5 @@ To combine clinical healthcare experience + management + analytics + technology 
 
 🔗 Connect
 
-LinkedIn: Add your LinkedIn profile link here.
+LinkedIn: www.linkedin.com/in/dr-amar-talampalli-227b842b4
+
